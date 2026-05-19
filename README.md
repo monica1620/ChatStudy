@@ -104,6 +104,8 @@ s.send("acknowledgement recived from the server".encode())
 
 
 ## Result:
+<img width="959" height="599" alt="image" src="https://github.com/user-attachments/assets/e464953c-979c-46ce-a871-c2829c71cea3" />
+
 
 
 
